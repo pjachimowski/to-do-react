@@ -4,7 +4,7 @@ export class Todoitem extends Component {
     render() {
         return (
             <div>
-                
+                <p>Patryk</p>
             </div>
         )
     }
